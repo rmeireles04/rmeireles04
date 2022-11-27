@@ -1,6 +1,8 @@
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things)]
+ 
+<a href="">
+<img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20thingsfont=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" /></a>
 (https://git.io/typing-svg)
 </p>
 
