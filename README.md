@@ -3,6 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=900&color=2581A9&vCenter=true&width=435&lines=Full+Stack+Developer+;web+and+app+Developer+;always++learning+new+things!" alt="Typing SVG" /></a>
 
 </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/23195856/204133907-d342146d-9cab-4c01-9948-1ae85e02999c.gif">
+
+
+
 
 
 # 🏄‍♂️ Rui Meireles
