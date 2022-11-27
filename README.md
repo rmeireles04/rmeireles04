@@ -38,7 +38,9 @@ I'm an full-stack developer trying building my version of the digital world one 
 
 ### 📊 Stats
 
-![Meireles GitHub stats](https://github.com/rmeireles04#-github-stats)
+
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmeireles04&show_icons=true&theme=gruvbox)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
