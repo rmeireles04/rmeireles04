@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KillingMCs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KillingMCs_jar</output-path>
+    <root id="archive" name="KillingMCs.jar">
+      <element id="module-output" name="KillingMCs" />
+      <element id="library" level="project" name="simplegraphics" />
+      <element id="library" level="project" name="._simplegraphics" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/KillingMCs/KillingMCs/lib/simplegraphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
