@@ -7,13 +7,13 @@
 
 
 
-
-
 # 🏄‍♂️ Rui Meireles
+
 
 **`Digital Craftsman (Developer/Techy)`**
 
 I'm an full-stack developer trying building my version of the digital world one step at a time. All coding projects are built with passion and if needed from the ground up, from planning and designing all the way to solving real-life problems with code. All the projects are built with all the needs of client requests.
+
 
 ## 🌐 Socials:
 <a href = "mailto:rmeireles04@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333.svg?&logo=gmail&logoColor=white" target="_blank"></a>
@@ -47,12 +47,11 @@ I'm an full-stack developer trying building my version of the digital world one 
 
 ### 📊 Stats
 
-
+[![](https://visitcount.itsvg.in/api?id=rmeireles04&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Meireles GitHub stats](https://github-readme-stats.vercel.app/api?username=rmeireles04&show_icons=true&theme=gruvbox)
 
 
-[![](https://visitcount.itsvg.in/api?id=rmeireles04&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
