@@ -13,7 +13,8 @@
 
 **`Digital Craftsman (Developer/Techy)`**
 
-I'm an full-stack developer trying building my version of the digital world one step at a time. All coding projects are built with passion and if needed from the ground up, from planning and designing all the way to solving real-life problems with code. All the projects are built with all the needs of client requests.
+I'm an full-stack developer trying building my version of the digital world one step at a time. 
+All coding projects are built with passion and if needed from the ground up, from planning and designing all the way to solving real-life problems with code. All the projects are built with all the needs of client requests.
 
 
 ## 🌐 Socials:
