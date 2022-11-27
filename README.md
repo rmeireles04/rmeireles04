@@ -45,7 +45,7 @@ I'm an full-stack developer trying building my version of the digital world one 
 
 ![Meireles GitHub stats](https://github-readme-stats.vercel.app/api?username=rmeireles04&show_icons=true&theme=gruvbox)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=rmeireles04&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
