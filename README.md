@@ -16,8 +16,9 @@
 I'm an full-stack developer trying building my version of the digital world one step at a time. All coding projects are built with passion and if needed from the ground up, from planning and designing all the way to solving real-life problems with code. All the projects are built with all the needs of client requests.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rmeireles04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruimeireles04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rmeireles04) [![Gmail]
 <a href = "mailto:rmeireles04@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333.svg?&logo=gmail&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruimeireles04)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rmeireles04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rmeireles04)
 
 
 ---
